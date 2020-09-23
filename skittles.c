@@ -50,3 +50,4 @@ int main(void)
 
     return 0;
 }
+//salve scromengndasjgb sou eu dedekio
